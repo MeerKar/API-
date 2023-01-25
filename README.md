@@ -23,29 +23,29 @@ First generated random geographic coordinates and the nearest city to each latit
 The findings of these analysis showed that there is a higher temperature for cities that found near to the equator (Latitude 0), 
 however, when we go farther from the equator towards the north the temperature decreases highly.
 
-the data, plots, and the regression line in the case of testing if there is a relation between humidity and cloudiness of cities nearer or farther to the equator (latitude 0) doesn't show any significant results. The correlation between humidity and latitude for both northern and southern hemisphere cities is very week, a negative correlation, and the result for cloudiness and latitude also very week and negative.
+In this  data, plots, and the regression line shows there is no significant results  between humidity and cloudiness of cities nearer or farther to the equator (latitude 0) . The correlation between humidity and latitude for both northern and southern hemisphere cities is very week, a negative correlation, and the result for cloudiness and latitude also very week and negative.
 Therefore, We can infer that humidity can be fairly distributed in both northern and southern hemisphere cities regardless of their distance from the equator
 
 # Table of Contents:
 
 Part I - WeatherPy
 
-. Scatter Plotting
+# Scatter Plotting
 
-. Latitude vs. Temperature Plot
-. Humidity (%) vs. Latitude
-. Cloudiness (%) vs. Latitude
-. Wind Speed (mph) vs. Latitude
-. linear regression & Scatter Plotting
+# Latitude vs. Temperature Plot
+# Humidity (%) vs. Latitude
+# Cloudiness (%) vs. Latitude
+# Wind Speed (mph) vs. Latitude
+# linear regression & Scatter Plotting
 
-. Northern Hemisphere - Temperature (F) vs. Latitude
-. Southern Hemisphere - Temperature (F) vs. Latitude
-. Northern Hemisphere - Humidity (%) vs. Latitude
-. Southern Hemisphere - Humidity (%) vs. Latitude
-. Northern Hemisphere - Cloudiness (%) vs. Latitude
-. Southern Hemisphere - Cloudiness (%) vs. Latitude
-. Northern Hemisphere - Wind Speed (mph) vs. Latitude
-. Southern Hemisphere - Wind Speed (mph) vs. Latitude
+# Northern Hemisphere - Temperature (F) vs. Latitude
+# Southern Hemisphere - Temperature (F) vs. Latitude
+# Northern Hemisphere - Humidity (%) vs. Latitude
+# Southern Hemisphere - Humidity (%) vs. Latitude
+# Northern Hemisphere - Cloudiness (%) vs. Latitude
+# Southern Hemisphere - Cloudiness (%) vs. Latitude
+# Northern Hemisphere - Wind Speed (mph) vs. Latitude
+# Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 
 For The bove analysis first converted city data file to a pandas dataframe 
