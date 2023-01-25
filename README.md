@@ -28,7 +28,9 @@ Therefore, We can infer that humidity can be fairly distributed in both northern
 
 # Table of Contents:
 
-Part I - WeatherPy
+
+# Part I - WeatherPy
+
 
 1. Scatter Plotting
 
@@ -41,6 +43,8 @@ Cloudiness (%) vs. Latitude
  Wind Speed (mph) vs. Latitude
  
  linear regression & Scatter Plotting
+ 
+ 
  
 2. Linear Regression
 
@@ -86,13 +90,54 @@ For The bove analysis first converted city data file to a pandas dataframe
 
 
  Northern Hemisphere - Temperature (F) vs. Latitude
+ 
+ 
+ <img width="711" alt="image" src="https://user-images.githubusercontent.com/116701851/214670236-2f2fe93f-3549-4b4d-9054-f267a0b13944.png"> 
+ 
+
+
+Southern Hemisphere - Temperature (F) vs. Latitude
+
+
+<img width="644" alt="image" src="https://user-images.githubusercontent.com/116701851/214670465-84faa447-a4b4-48ca-bc17-c18edfa9862d.png">
 
 
 
 
+Northern Hemisphere - Humidity (%) vs. Latitude
+
+
+<img width="687" alt="image" src="https://user-images.githubusercontent.com/116701851/214670717-8d6827fb-3f39-4e80-a2c5-f9a07833f3c4.png">
+
+
+
+Southern Hemisphere - Humidity (%) vs. Latitude
+
+
+<img width="739" alt="image" src="https://user-images.githubusercontent.com/116701851/214672345-ee49cfaa-9441-4042-85a8-1aa308bb28aa.png">
+
+
+Northern Hemisphere - Cloudiness (%) vs. Latitude
+
+<img width="720" alt="image" src="https://user-images.githubusercontent.com/116701851/214672859-e1418d1d-7dff-4728-8a49-5b432c8c2a7b.png">
+
+
+Southern Hemisphere - Cloudiness (%) vs. Latitude
+
+
+<img width="652" alt="image" src="https://user-images.githubusercontent.com/116701851/214672987-033b1770-f1b9-4cd9-b750-58d522e7bcd8.png">
 
 
 
 
-
+ Northern Hemisphere - Wind Speed (mph) vs. Latitude
+ 
+ <img width="668" alt="image" src="https://user-images.githubusercontent.com/116701851/214673454-7c04b266-622b-4ee2-a602-0041f404a961.png">
+ 
+ 
+ 
+ Southern Hemisphere - Wind Speed (mph) vs. Latitude
+ 
+ <img width="699" alt="image" src="https://user-images.githubusercontent.com/116701851/214673696-b2027adf-7e93-4ee9-aa33-b26338bd3bf9.png"> 
+ 
 
