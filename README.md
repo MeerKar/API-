@@ -24,7 +24,9 @@ The findings of these analysis showed that there is a higher temperature for cit
 however, when we go farther from the equator towards the north the temperature decreases highly.
 
 In this  data, plots, and the regression line shows there is no significant results  between humidity and cloudiness of cities nearer or farther to the equator (latitude 0) . The correlation between humidity and latitude for both northern and southern hemisphere cities is very week, a negative correlation, and the result for cloudiness and latitude also very week and negative.
-Therefore, We can infer that humidity can be fairly distributed in both northern and southern hemisphere cities regardless of their distance from the equator
+Therefore, We can infer that humidity can be fairly distributed in both northern and southern hemisphere cities regardless of their distance from the equator and the relationship between wind speed (mph), and latitude showed that the lower wind speed when the cities closer to the equator (latitude 0), and somehow the wind speed increase for the cities farther from the equater. The regression analysis also showed that there is a very week, positive correlation between Wind Speed (mph (%) and Latitude in the Northern Hemisphere cities.
+
+
 
 # Table of Contents:
 
@@ -140,4 +142,26 @@ Southern Hemisphere - Cloudiness (%) vs. Latitude
  
  <img width="699" alt="image" src="https://user-images.githubusercontent.com/116701851/214673696-b2027adf-7e93-4ee9-aa33-b26338bd3bf9.png"> 
  
+ 
+ 
+# Part 2: VacationPy
+
+Created map that displays Humidity for every city in the  DataFrame.
+
+
+<img width="748" alt="image" src="https://user-images.githubusercontent.com/116701851/214675714-f5eae02f-3018-4f57-889d-772f90c84a4a.png">
+
+A new dataFrame was created by narrow down the weather data to find the ideal weather condition
+
+
+
+A map is created for hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
+
+
+
+<img width="990" alt="image" src="https://user-images.githubusercontent.com/116701851/214676301-9b3b2feb-f835-4293-a2c5-f481842b1e3c.png">
+
+
+
+
 
