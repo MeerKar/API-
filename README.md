@@ -30,22 +30,36 @@ Therefore, We can infer that humidity can be fairly distributed in both northern
 
 Part I - WeatherPy
 
-# Scatter Plotting
+1. Scatter Plotting
 
-# Latitude vs. Temperature Plot
-# Humidity (%) vs. Latitude
-# Cloudiness (%) vs. Latitude
-# Wind Speed (mph) vs. Latitude
-# linear regression & Scatter Plotting
+ Latitude vs. Temperature Plot
+ 
+ Humidity (%) vs. Latitude
+ 
+Cloudiness (%) vs. Latitude
 
-# Northern Hemisphere - Temperature (F) vs. Latitude
-# Southern Hemisphere - Temperature (F) vs. Latitude
-# Northern Hemisphere - Humidity (%) vs. Latitude
-# Southern Hemisphere - Humidity (%) vs. Latitude
-# Northern Hemisphere - Cloudiness (%) vs. Latitude
-# Southern Hemisphere - Cloudiness (%) vs. Latitude
-# Northern Hemisphere - Wind Speed (mph) vs. Latitude
-# Southern Hemisphere - Wind Speed (mph) vs. Latitude
+ Wind Speed (mph) vs. Latitude
+ 
+ linear regression & Scatter Plotting
+ 
+2. Linear Regression
+
+
+ Northern Hemisphere - Temperature (F) vs. Latitude
+ 
+ Southern Hemisphere - Temperature (F) vs. Latitude
+ 
+ Northern Hemisphere - Humidity (%) vs. Latitude
+ 
+ Southern Hemisphere - Humidity (%) vs. Latitude
+ 
+ Northern Hemisphere - Cloudiness (%) vs. Latitude
+ 
+ Southern Hemisphere - Cloudiness (%) vs. Latitude
+ 
+ Northern Hemisphere - Wind Speed (mph) vs. Latitude
+ 
+ Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 
 For The bove analysis first converted city data file to a pandas dataframe 
@@ -53,7 +67,7 @@ For The bove analysis first converted city data file to a pandas dataframe
 <img width="693" alt="image" src="https://user-images.githubusercontent.com/116701851/214665571-101ee280-fdc2-4dc1-bf89-8c8e1b189962.png">
 
 
-. Scatter Plotting
+1.  Scatter Plotting
 
 <img width="778" alt="image" src="https://user-images.githubusercontent.com/116701851/214665789-4ecc5d0b-3140-4d1b-adb0-faf78f432abb.png">
 
@@ -67,6 +81,11 @@ For The bove analysis first converted city data file to a pandas dataframe
 
 <img width="763" alt="image" src="https://user-images.githubusercontent.com/116701851/214666282-ce1cacbb-ce1f-4a58-90c9-390dd71020f9.png">
 
+
+2. Linear Regression
+
+
+ Northern Hemisphere - Temperature (F) vs. Latitude
 
 
 
